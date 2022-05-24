@@ -4,6 +4,12 @@ File name - lnblist.py
 ● create a new list called L3 containing items in below given pattern
 ● From L1 it must take only odd index items
 ● From L2 it must take only even index items
+
+Example :
+Inputs : L1 = [11, 21, 24, 12, 18]
+L2 = [14, 44, 25, 37, 13]
+Expected output : L3=[11,24,18,44,37]
+
 '''
 l1s=int(input("Enter the size of first list: "))
 l1=[]

@@ -6,9 +6,12 @@ File name - lnblist.py
 ● From L2 it must take only even index items
 
 Example :
-Inputs : L1 = [11, 21, 24, 12, 18]
+Inputs :
+L1 = [11, 21, 24, 12, 18]
 L2 = [14, 44, 25, 37, 13]
-Expected output : L3=[11,24,18,44,37]
+
+Expected output : 
+L3=[11,24,18,44,37]
 
 '''
 l1s=int(input("Enter the size of first list: "))
